@@ -9,4 +9,4 @@
 
 
 ## 結論與詳細說明：
-    請閱讀「[Multicharts.pdf](<https://github.com/WenHsin0130/multicharts/Multicharts.pdf> "Multicharts.pdf")」
+請閱讀「[Multicharts.pdf](<https://github.com/WenHsin0130/multicharts/Multicharts.pdf> "Multicharts.pdf")」
